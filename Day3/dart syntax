@@ -1,0 +1,11 @@
+So syntax defines a set of rules for writing programs. Every language specification defines its own syntax. A Dart program is composed of −
+
+Variables and Operators
+Classes
+Functions
+Expressions and Programming Constructs
+Decision Making and Looping Constructs
+Comments
+Libraries and Packages
+Typedefs
+Data structures represented as Collections / Generics
