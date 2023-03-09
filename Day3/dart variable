@@ -1,4 +1,0 @@
-Variables are the namespace in memory that stores values. The name of a variable is called as identifiers. They are the data containers, which can store the value of any type. For example:
-
-var myAge = 50;  
-Here, myAge is a variable that stores an integer value 50. We can also give it int and double. However, Dart has a feature Type Inference, which infers the types of values. So, if you create a variable with a var keyword, Dart can infer that variable as of type integer.
